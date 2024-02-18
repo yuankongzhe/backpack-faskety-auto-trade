@@ -8,3 +8,5 @@ pip install -r requirements.txt
 3. 在.env文件中设置你的api信息以及需要刷的金额
 4. 运行pip install -r requirements.txt命令安装依赖库
 5. 运行python main.py命令开始刷量
+
+由https://twitter.com/0xfaskety创建
