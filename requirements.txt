@@ -1,0 +1,2 @@
+bpx_api==0.0.2
+python-dotenv==1.0.1
