@@ -1,5 +1,7 @@
 通过requirements.txt文件安装依赖库
+
 pip install -r requirements.txt
+
 使用方法：
 1. 下载本库
 2. 在终端中打开本库
