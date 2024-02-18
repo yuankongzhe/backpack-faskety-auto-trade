@@ -11,7 +11,7 @@ if __name__ == '__main__':
     # 读取环境变量
     api_secret = os.getenv('API_SECRET')
     api_key = os.getenv('API_KEY')
-    wish_vol =os.getenv('WISH_VOLUME')
+    wish_vol =int(os.getenv('WISH_VOLUME'))
     bpx = BpxClient()
     bpx.init(        
         api_key=api_key,
