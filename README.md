@@ -1,4 +1,4 @@
-通过requirements.txt文件安装依赖库
+通过requirements.txt文件安装依赖库，推荐在北京时间的下午刷量
 
 pip install -r requirements.txt
 
@@ -10,3 +10,9 @@ pip install -r requirements.txt
 5. 运行python main.py命令开始刷量
 
 由https://twitter.com/0xfaskety创建
+
+低磨损说明：
+1.用limit限价买卖。
+2.在北京时间的下午刷量
+3.低买高卖，观察盘口成交速度，成交快情况下可以用买3卖3价格来挂单，慢的话买一卖一就行了。
+具体原理详见https://twitter.com/0xfaskety/status/1758785161339310207
